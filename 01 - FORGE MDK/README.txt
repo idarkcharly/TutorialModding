@@ -1,5 +1,4 @@
 Step 1: Open your command-line and browse to the folder where you extracted the zip file.
-
 Step 2: You're left with a choice.
 If you prefer to use Eclipse:
 1. Run the following command: "gradlew genEclipseRuns" (./gradlew genEclipseRuns if you are on Mac/Linux)
