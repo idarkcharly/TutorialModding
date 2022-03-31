@@ -1,0 +1,1 @@
+Código de la clase RegistryHandler:  https://pastebin.com/MxrPxDR2
