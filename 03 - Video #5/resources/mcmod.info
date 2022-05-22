@@ -1,0 +1,16 @@
+[
+{
+  "modid": "decorock",
+  "name": "DecoRock",
+  "description": "Este es un mod musical",
+  "version": "0.1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Charly1307"],
+  "credits": "Gracias a los seguidores de YT",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
